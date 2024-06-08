@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è›åÇùÿÿÿÿ8¯™€£ì1
+l
+java:S1128"JRemove this unused import 'dev.erique.loja.model.carrinho.CarrinhoEntity'.(šûôÜûÿÿÿÿ8²™€£ì1
+e
+java:S1128"HRemove this unused import 'dev.erique.loja.model.cliente.ClienteEntity'.(©°ÚÐ8²™€£ì1

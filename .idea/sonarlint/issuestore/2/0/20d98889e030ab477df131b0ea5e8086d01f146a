@@ -1,0 +1,22 @@
+
+	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(ãìÃÀøÿÿÿÿ8¦„¥ßß1J$98f99e67-079c-4e1e-bf2e-176d47d769f4
+
+java:S4973="<Strings and Boxed types should be compared using "equals()".(¡ÜÊç8§„¥ßß1J$a4b0bcb5-e60a-458a-8ff9-4d2f28e3cc1f
+
+java:S3516<"9Refactor this method to not always return the same value.(ë‡ÏØıÿÿÿÿ8Ï„¥ßß1J$7d38508d-b445-4fc3-a01c-95864c255f0d
+…
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8Õ¶áö÷1J$8c38d124-f253-4a48-97e5-2c79b0b6b903
+…
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ8Õ¶áö÷1J$9b5bd439-e877-4452-91ef-41edaa113690
+…
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ8Õ¶áö÷1J$f4d51a8d-b0a1-4139-a4e3-42d913272713
+…
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ8Õ¶áö÷1J$c939a655-3923-4189-9b3f-573bc914590d
+…
+java:S68139"BRemove this field injection and use constructor injection instead.(êæÄŞ8Õ¶áö÷1J$ca4905cc-d97a-4dc0-b122-86b9e78aed8a
+…
+java:S1172<"=Remove this unused method parameter "paymentNotificationDto".(ë‡ÏØıÿÿÿÿ8Ò„¥ßß1J$0d96170f-2090-4d8b-99f2-6f8f0bfaa5e1
+
+java:S3923="[Remove this conditional structure or edit its code blocks so that they're not all the same.(¡ÜÊç8Ò„¥ßß1J$0884011b-a286-4b9f-8929-fe820ccbac37
+v
+java:S1135Š"2Complete the task associated to this TODO comment.(šò„Í8ÂÃàß1J$1dc76ce8-684d-47fa-aa60-0ba4c821522b
